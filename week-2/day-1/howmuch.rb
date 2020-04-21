@@ -43,4 +43,6 @@ Electronics, USD 399.99, false, 0, iPhone 5
 Electronics, PEN 199.99, true, 2, Nexus 7"
 
 p howmuch(parsingdata(str))
+
+#{:total=>809.87, :max_obj=>{:category=>"Sporting Goods", :symbol=>"USD", :price=>49.99, :stock=>"true", :amount=>10, :name=>"Football", :valuestock=>499.9}}
     
