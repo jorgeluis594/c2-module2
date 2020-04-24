@@ -1,0 +1,1 @@
+File.write("write_name.txt", gets.chomp)
