@@ -1,0 +1,1 @@
+File.foreach(ARGV[0]) { |line| eval line if line }
